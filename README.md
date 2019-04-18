@@ -41,9 +41,9 @@ Windows 版需保留你下载 .zip 解压后的整个文件夹，然后点击文
 
    - Mac 版：可以在通知中心收到推送；Dock 图标可以显示角标，但是红色圆点，而非数字
 
-     ![04.1-notification](Images/04.1-notification.png)
+     <img src="Images/04.1-notification.png" width="80%"/>
 
-     ![04.2-dock-badge](Images/04.2-dock-badge.png)
+     <img src="Images/04.2-dock-badge.png" width="50%"/>
 
    - Windows 版：在通知中心无法收到推送
 
