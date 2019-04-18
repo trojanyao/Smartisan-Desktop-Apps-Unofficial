@@ -1,10 +1,10 @@
-![00-header](00-header.png)
+![00-header](Images/00-header.png)
 
 #### 「少废话，先看东西」：
 
-![01.1-screenshot-mac](01.1-screenshot-mac.png)
+![01.1-screenshot-mac](Images/01.1-screenshot-mac.png)
 
-![01.2-screenshot-win](01.2-screenshot-win.png)
+![01.2-screenshot-win](Images/01.2-screenshot-win.png)
 
 #### 下载链接：
 
@@ -17,15 +17,15 @@
 
 Mac 版安装像其他 App 一样，打开 .dmg 镜像包将应用拖拽至「应用程序」文件夹即可。（哦对了，在「子弹短信」的 .dmg 镜像包中有一个彩蛋等待你去发现。）
 
-![02.1-smartisan-notes-mac-installer](02.1-smartisan-notes-mac-installer.png)
+![02.1-smartisan-notes-mac-installer](Images/02.1-smartisan-notes-mac-installer.png)
 
-![02.2-bullet-message-mac-installer](02.2-bullet-message-mac-installer.png)
+![02.2-bullet-message-mac-installer](Images/02.2-bullet-message-mac-installer.png)
 
 Windows 版需保留你下载 .zip 解压后的整个文件夹，然后点击文件夹中的 Smartisan Notes.exe / Bullet Message.exe 即可运行。为了方便，你可以为它们创建桌面快捷方式。此外，Maylie 为「子弹短信」制作了多种图标版本，点击相应版本即可使用。
 
-![03.1-smartisan-notes-win-folder](03.1-smartisan-notes-win-folder.png)
+![03.1-smartisan-notes-win-folder](Images/03.1-smartisan-notes-win-folder.png)
 
-![03.2-bullet-message-win-folder](03.2-bullet-message-win-folder.png)
+![03.2-bullet-message-win-folder](Images/03.2-bullet-message-win-folder.png)
 
 关于这几款 App ，你可能会有一些疑问，我们将他们提前整理在这里，希望对你有帮助。
 
@@ -41,9 +41,9 @@ Windows 版需保留你下载 .zip 解压后的整个文件夹，然后点击文
 
    - Mac 版：可以在通知中心收到推送；Dock 图标可以显示角标，但是红色圆点，而非数字
 
-     ![04.1-notification](04.1-notification.png)
+     ![04.1-notification](Images/04.1-notification.png)
 
-     ![04.2-dock-badge](04.2-dock-badge.png)
+     ![04.2-dock-badge](Images/04.2-dock-badge.png)
 
    - Windows 版：在通知中心无法收到推送
 
