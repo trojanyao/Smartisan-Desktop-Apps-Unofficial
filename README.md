@@ -13,7 +13,7 @@
 - [锤子便签 for Windows（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.0-win/Smartisan.Notes.Unofficial.zip)
 - [子弹短信 for Windows（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.0-win/Bullet.Message.Unofficial.zip)
 
-这四款非官方 App 均基于 GitHub 上的 [jiahaog](https://github.com/jiahaog)/[nativefier](https://github.com/jiahaog/nativefier) 工具制作，也就是所谓的「套壳版」。Mac 版由我制作，Windows 版由 [Maylie](https://github.com/Maylie1918) 制作。
+这四款非官方 App 均基于 [jiahaog](https://github.com/jiahaog)/[nativefier](https://github.com/jiahaog/nativefier) 工具制作，也就是所谓的「套壳版」。Mac 版由我制作，Windows 版由 [Maylie](https://github.com/Maylie1918) 制作。
 
 Mac 版安装像其他 App 一样，打开 .dmg 镜像包将应用拖拽至「应用程序」文件夹即可。（哦对了，在「子弹短信」的 .dmg 镜像包中有一个彩蛋等待你去发现。）
 
