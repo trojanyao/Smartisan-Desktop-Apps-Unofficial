@@ -8,10 +8,10 @@
 
 #### 下载链接：
 
-- [锤子便签 for Mac（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.0/Smartisan.Notes.Unofficial.dmg)
-- [子弹短信 for Mac（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.0/Bullet.Message.Unofficial.dmg)
-- [锤子便签 for Windows（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.0-win/Smartisan.Notes.Unofficial.zip)
-- [子弹短信 for Windows（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.0-win/Bullet.Message.Unofficial.zip)
+- [锤子便签 for Mac（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.1-mac/Mac-Smartisan-Notes-Unofficial.dmg)
+- [子弹短信 for Mac（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.1-mac/Mac-Bullet-Message-Unofficial.dmg)
+- [锤子便签 for Windows（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.1-win/Win-Smartisan-Notes-Unofficial.zip)
+- [子弹短信 for Windows（非官方）](https://github.com/minimalistrojan/Smartisan-Desktop-Apps-Unofficial/releases/download/v1.1-win/Win-Bullet-Message-Unofficial.zip)
 
 这四款非官方 App 均基于 [jiahaog](https://github.com/jiahaog)/[nativefier](https://github.com/jiahaog/nativefier) 工具制作，也就是所谓的「套壳版」。Mac 版由我制作，Windows 版由 [Maylie](https://github.com/Maylie1918) 制作。
 
